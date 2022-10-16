@@ -1,3 +1,3 @@
 # Example Website
 
-> E Corp website for testimg 
+> E Corp website for testing 
